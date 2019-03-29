@@ -1,0 +1,3 @@
+# Toaster Jigsaw - Heating Element
+
+This is a part of a jigsaw-style learning module on how a toaster works. Learners in this group are assigned instruction on how a toaster heats toast, while their partners' (assigned to the other group) learn about how toasters hold toast in place and pop up when ready. Partners then come together and teach each other what they have learned, before being quizzed on the full set of materials.
