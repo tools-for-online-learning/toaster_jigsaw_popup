@@ -16,7 +16,9 @@ p {
 	text-align: left;
 	margin-left: 20px;
 }
-
+#quizLink {
+  text-align: center;
+}
 a:visited, a:link {
   /*color: #607D8B;*/
   color: #0645AD;
