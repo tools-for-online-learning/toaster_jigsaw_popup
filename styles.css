@@ -1,0 +1,30 @@
+* {
+  font-family: "Bookman Old Style", Bookman, "Rufina", "Goudy Old Style", Garamond, serif !important;
+}
+
+body {
+    /*background-color: #757474;*/
+    text-align: center;
+}
+h1 {
+    display: block;
+    position: relative;
+    margin-bottom: 30px;
+    text-align: center;
+}
+p {
+	text-align: left;
+	margin-left: 20px;
+}
+
+a:visited, a:link {
+  /*color: #607D8B;*/
+  color: #0645AD;
+  /*font-weight: bold;*/
+  /*border: 2px solid #FFFFFF; */
+  /*color: #A7A7D8;*/
+}
+a:hover {
+  color: #039be5 !important;
+  background-color: #CFD8DC;
+}
